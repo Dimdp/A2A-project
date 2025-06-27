@@ -7,3 +7,6 @@ __pycache__/
 # Ignore environment files
 .env
 
+.vscode
+
+llm_hf.py
