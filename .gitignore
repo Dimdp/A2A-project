@@ -10,7 +10,7 @@ __pycache__/
 .vscode
 
 # Ignore chroma db
-./RAG/db
+RAG/db
 
 
 # Ignore this py file, it is just for testing purposes
